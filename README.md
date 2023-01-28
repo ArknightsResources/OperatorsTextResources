@@ -18,5 +18,8 @@
 
 你也可以通过[ArknightsResources.CustomResourceHelpers](https://github.com/ArknightsResources/CustomResourceHelpers)项目来自定义访问过程。
 
+## 致谢
+感谢 [Kengxxiao/ArknightsGameData](https://github.com/Kengxxiao/ArknightsGameData) 仓库提供了基础数据
+
 ## 许可
 本项目所使用的《明日方舟》游戏文本及数据等内容，其著作权属于上海鹰角网络科技有限公司。
