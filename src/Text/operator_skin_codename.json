@@ -1,580 +1,593 @@
 {
-    "acdrop": [
-        "acdrop_whirlwind"
-    ],
-    "adnach": [
-        "adnach_sale"
-    ],
-    "akafyu": [
-        "akafyu_epoque"
-    ],
-    "aglina": [
-        "aglina_boc",
-        "aglina_summer"
-    ],
-    "amiya": [
-        "amiya_epoque",
-        "amiya_test",
-        "amiya_winter"
-    ],
-    "amgoat": [
-        "amgoat_summer"
-    ],
-    "angel": [
-        "angel_kfc",
-        "angel_wild"
-    ],
-    "ansel": [
-        "ansel_summer"
-    ],
-    "aosta": [
-        "aosta_game"
-    ],
-    "aprl": [
-        "aprl_wild"
-    ],
-    "archet": [
-        "archet_shining"
-    ],
-    "ardign": [
-        "ardign_snow"
-    ],
-    "asbest": [
-        "asbest_whirlwind"
-    ],
-    "ash": [
-        "ash_rainbow6"
-    ],
-    "astesi": [
-        "astesi_epoque",
-        "astesi_shining"
-    ],
-    "aurora": [
-        "aurora_boc"
-    ],
-    "ayer": [
-        "ayer_boc"
-    ],
-    "beagle": [
-        "beagle_boc"
-    ],
-    "beewax": [
-        "beewax_epoque"
-    ],
-    "bibeak": [
-        "bibeak_winter"
-    ],
-    "billro": [
-        "billro_snow",
-        "billro_summer"
-    ],
-    "blackd": [
-        "blackd_as",
-        "blackd_winter"
-    ],
-    "blemsh": [
-        "blemsh_witch"
-    ],
-    "bldsk": [
-        "bldsk_witch",
-        "bldsk_summer"
-    ],
-    "blkngt": [
-        "blkngt_summer",
-        "blkngt_nian"
-    ],
-    "bluep": [
-        "bluep_marthe"
-    ],
-    "bpipe": [
-        "bpipe_race"
-    ],
-    "broca": [
-        "broca_marthe"
-    ],
-    "brownb": [
-        "brownb_kitchen"
-    ],
-    "bstalk": [
-        "bstalk_snow"
-    ],
-    "cammou": [
-        "cammou_witch"
-    ],
-    "cast3": [
-        "cast3_summer"
-    ],
-    "ccheal": [
-        "ccheal_epoque"
-    ],
-    "cerber": [
-        "cerber_summer",
-        "cerber_whirlwind"
-    ],
-    "cgbird": [
-        "cgbird_witch"
-    ],
-    "chen": [
-        "chen_nian"
-    ],
-    "cqbw": [
-        "cqbw_epoque"
-    ],
-    "crow": [
-        "crow_summer"
-    ],
-    "ctable": [
-        "ctable_nian"
-    ],
-    "cuttle": [
-        "cuttle_epoque"
-    ],
-    "demkni": [
-        "demkni_boc",
-        "demkni_test"
-    ],
-    "doberm": [
-        "doberm_epoque"
-    ],
-    "dusk": [
-        "dusk_nian"
-    ],
-    "elysm": [
-        "elysm_snow",
-        "elysm_summer"
-    ],
-    "erato": [
-        "erato_snow"
-    ],
-    "ethan": [
-        "ethan_epoque"
-    ],
-    "excu": [
-        "excu_boc"
-    ],
-    "f12yin": [
-        "f12yin_boc",
-        "f12yin_epoque"
-    ],
-    "fang": [
-        "fang_winter"
-    ],
-    "flameb": [
-        "flameb_summer"
-    ],
-    "flamtl": [
-        "flamtl_game"
-    ],
-    "flint": [
-        "flint_boc"
-    ],
-    "flower": [
-        "flower_daily",
-        "flower_epoque"
-    ],
-    "fmout": [
-        "fmout_epoque"
-    ],
-    "folnic": [
-        "folnic_wild"
-    ],
-    "frostl": [
-        "frostl_boc"
-    ],
-    "gdglow": [
-        "gdglow_snow"
-    ],
-    "ghost": [
-        "ghost_winter"
-    ],
-    "glacus": [
-        "glacus_ghost"
-    ],
-    "glady": [
-        "glady_boc"
-    ],
-    "glassb": [
-        "glassb_kitchen"
-    ],
-    "glider": [
-        "glider_epoque"
-    ],
-    "gnosis": [
-        "gnosis_boc"
-    ],
-    "grani": [
-        "grani_epoque"
-    ],
-    "gravel": [
-        "gravel_winter"
-    ],
-    "greyy": [
-        "greyy_epoque"
-    ],
-    "greyy2": [
-        "greyy2_snow"
-    ],
-    "haak": [
-        "haak_nian#4",
-        "haak_nian#5"
-    ],
-    "headbr": [
-        "headbr_it",
-        "headbr_marthe"
-    ],
-    "helage": [
-        "helage_boc"
-    ],
-    "hibisc": [
-        "hibisc_nian"
-    ],
-    "hmau": [
-        "hmau_nian"
-    ],
-    "hsguma": [
-        "hsguma_nian"
-    ],
-    "huang": [
-        "huang_as"
-    ],
-    "ifrit": [
-        "ifrit_kfc",
-        "ifrit_summer"
-    ],
-    "indigo": [
-        "indigo_nian"
-    ],
-    "iris": [
-        "iris_witch"
-    ],
-    "jaksel": [
-        "jaksel_whirlwind"
-    ],
-    "jesica": [
-        "jesica_nian",
-        "jesica_sweep",
-        "jesica_wild"
-    ],
-    "kafka": [
-        "kafka_snow"
-    ],
-    "kazema": [
-        "kazema_witch"
-    ],
-    "kirara": [
-        "kirara_game"
-    ],
-    "kjera": [
-        "kjera_epoque"
-    ],
-    "kroos": [
-        "kroos_witch"
-    ],
-    "kroos2": [
-        "kroos2_nian"
-    ],
-    "lava2": [
-        "lava2_nian"
-    ],
-    "ling": [
-        "ling_nian"
-    ],
-    "lionhd": [
-        "lionhd_wild",
-        "lionhd_snow"
-    ],
-    "lisa": [
-        "lisa_wild",
-        "lisa_lxh"
-    ],
-    "liskam": [
-        "liskam_nian",
-        "liskam_striker"
-    ],
-    "lmlee": [
-        "lmlee_witch"
-    ],
-    "mantic": [
-        "mantic_epoque"
-    ],
-    "mberry": [
-        "mberry_epoque",
-        "mberry_nian"
-    ],
-    "medic2": [
-        "medic2_boc"
-    ],
-    "melan": [
-        "melan_epoque"
-    ],
-    "meteo": [
-        "meteo_sweep"
-    ],
-    "mgllan": [
-        "mgllan_kitchen"
-    ],
-    "midn": [
-        "midn_boc"
-    ],
-    "milu": [
-        "milu_snow",
-        "milu_wild"
-    ],
-    "mizuki": [
-        "mizuki_sale"
-    ],
-    "moeshd": [
-        "moeshd_kfc",
-        "moeshd_summer"
-    ],
-    "mostma": [
-        "mostma_epoque"
-    ],
-    "mudrok": [
-        "mudrok_summer",
-        "mudrok_ambienceSynesthesia"
-    ],
-    "myrrh": [
-        "myrrh_wild"
-    ],
-    "myrtle": [
-        "myrtle_epoque"
-    ],
-    "nearl": [
-        "nearl_summer"
-    ],
-    "nearl2": [
-        "nearl2_epoque"
-    ],
-    "nian": [
-        "nian_nian"
-    ],
-    "nightm": [
-        "nightm_epoque"
-    ],
-    "nothin": [
-        "nothin_nian"
-    ],
-    "otter": [
-        "otter_ghost"
-    ],
-    "pallas": [
-        "pallas_epoque#12",
-        "pallas_epoque#19"
-    ],
-    "panda": [
-        "panda_marthe",
-        "panda_nian"
-    ],
-    "pasngr": [
-        "pasngr_epoque"
-    ],
-    "peacok": [
-        "peacok_game"
-    ],
-    "phatom": [
-        "phatom_ghost",
-        "phatom_sale"
-    ],
-    "pinecn": [
-        "pinecn_shining"
-    ],
-    "platnm": [
-        "platnm_summer"
-    ],
-    "plosis": [
-        "plosis_epoque"
-    ],
-    "poca": [
-        "poca_epoque"
-    ],
-    "podego": [
-        "podego_epoque"
-    ],
-    "prove": [
-        "prove_summer",
-        "prove_wild"
-    ],
-    "pudd": [
-        "pudd_snow"
-    ],
-    "quercu": [
-        "quercu_epoque"
-    ],
-    "red": [
-        "red_summer"
-    ],
-    "robin": [
-        "robin_epoque"
-    ],
-    "robrta": [
-        "robrta_summer"
-    ],
-    "rockr": [
-        "rockr_lxh"
-    ],
-    "rope": [
-        "rope_summer",
-        "rope_witch"
-    ],
-    "rosmon": [
-        "rosmon_epoque"
-    ],
-    "scave": [
-        "scave_striker"
-    ],
-    "sddrag": [
-        "sddrag_ambienceSynesthesia"
-    ],
-    "shining": [
-        "shining_summer"
-    ],
-    "shotst": [
-        "shotst_epoque"
-    ],
-    "shwaz": [
-        "shwaz_snow",
-        "shwaz_striker"
-    ],
-    "sidero": [
-        "sidero_summer"
-    ],
-    "siege": [
-        "siege_wild",
-        "siege_striker"
-    ],
-    "silent": [
-        "silent_sweep",
-        "silent_winter"
-    ],
-    "skadi": [
-        "skadi_summer"
-    ],
-    "skadi2": [
-        "skadi2_boc"
-    ],
-    "skfire": [
-        "skfire_summer"
-    ],
-    "slbell": [
-        "slbell_snow"
-    ],
-    "slchan": [
-        "slchan_wild",
-        "slchan_wwf"
-    ],
-    "sleach": [
-        "sleach_epoque"
-    ],
-    "snakek": [
-        "snakek_wild"
-    ],
-    "snsant": [
-        "snsant_witch"
-    ],
-    "sophia": [
-        "sophia_epoque"
-    ],
-    "sora": [
-        "sora_summer",
-        "sora_epoque"
-    ],
-    "spikes": [
-        "spikes_winter"
-    ],
-    "spot": [
-        "spot_boc"
-    ],
-    "sqrrel": [
-        "sqrrel_ghost"
-    ],
-    "strong": [
-        "strong_summer"
-    ],
-    "stward": [
-        "stward_sale"
-    ],
-    "sunbr": [
-        "sunbr_summer"
-    ],
-    "surtr": [
-        "surtr_it",
-        "surtr_summer"
-    ],
-    "susuro": [
-        "susuro_summer"
-    ],
-    "svrash": [
-        "svrash_snow",
-        "svrash_summer"
-    ],
-    "swire": [
-        "swire_nian"
-    ],
-    "swllow": [
-        "swllow_boc"
-    ],
-    "tachak": [
-        "tachak_rainbow6"
-    ],
-    "takila": [
-        "takila_ambienceSynesthesia"
-    ],
-    "texas": [
-        "texas_epoque",
-        "texas_winter"
-    ],
-    "thorns": [
-        "thorns_it"
-    ],
-    "tiger": [
-        "tiger_striker"
-    ],
-    "tknogi": [
-        "tknogi_epoque"
-    ],
-    "tomimi": [
-        "tomimi_summer"
-    ],
-    "tuye": [
-        "tuye_epoque"
-    ],
-    "utage": [
-        "utage_summer",
-        "utage_epoque"
-    ],
-    "vigna": [
-        "vigna_as",
-        "vigna_summer"
-    ],
-    "vodfox": [
-        "vodfox_witch"
-    ],
-    "waaifu": [
-        "waaifu_whirlwind"
-    ],
-    "weedy": [
-        "weedy_snow"
-    ],
-    "whispr": [
-        "whispr_nian"
-    ],
-    "whitew": [
-        "whitew_boc"
-    ],
-    "wildmn": [
-        "wildmn_epoque"
-    ],
-    "yak": [
-        "yak_summer"
-    ],
-    "yuki": [
-        "yuki_boc"
-    ],
-    "zebra": [
-        "zebra_wild"
-    ],
-    "zumama": [
-        "zumama_boc"
-    ]
+  "acdrop": [
+    "acdrop_whirlwind"
+  ],
+  "adnach": [
+    "adnach_sale"
+  ],
+  "aglina": [
+    "aglina_boc",
+    "aglina_summer"
+  ],
+  "akafyu": [
+    "akafyu_epoque"
+  ],
+  "amgoat": [
+    "amgoat_summer"
+  ],
+  "amiya": [
+    "amiya_epoque",
+    "amiya_test",
+    "amiya_winter"
+  ],
+  "angel": [
+    "angel_kfc",
+    "angel_wild"
+  ],
+  "ansel": [
+    "ansel_summer"
+  ],
+  "aosta": [
+    "aosta_game"
+  ],
+  "aprl": [
+    "aprl_wild"
+  ],
+  "archet": [
+    "archet_shining"
+  ],
+  "ardign": [
+    "ardign_snow"
+  ],
+  "asbest": [
+    "asbest_whirlwind"
+  ],
+  "ash": [
+    "ash_rainbow6"
+  ],
+  "astesi": [
+    "astesi_epoque",
+    "astesi_shining"
+  ],
+  "aurora": [
+    "aurora_boc"
+  ],
+  "ayer": [
+    "ayer_boc"
+  ],
+  "beagle": [
+    "beagle_boc"
+  ],
+  "beewax": [
+    "beewax_epoque"
+  ],
+  "bgsnow": [
+    "bgsnow_wild"
+  ],
+  "bibeak": [
+    "bibeak_winter"
+  ],
+  "billro": [
+    "billro_snow",
+    "billro_summer"
+  ],
+  "blackd": [
+    "blackd_as",
+    "blackd_winter"
+  ],
+  "bldsk": [
+    "bldsk_witch",
+    "bldsk_summer"
+  ],
+  "blemsh": [
+    "blemsh_witch"
+  ],
+  "blkngt": [
+    "blkngt_summer",
+    "blkngt_nian"
+  ],
+  "bluep": [
+    "bluep_marthe"
+  ],
+  "bpipe": [
+    "bpipe_race"
+  ],
+  "broca": [
+    "broca_marthe"
+  ],
+  "brownb": [
+    "brownb_kitchen"
+  ],
+  "bstalk": [
+    "bstalk_snow"
+  ],
+  "cammou": [
+    "cammou_witch"
+  ],
+  "cast3": [
+    "cast3_summer"
+  ],
+  "ccheal": [
+    "ccheal_epoque"
+  ],
+  "cerber": [
+    "cerber_summer",
+    "cerber_whirlwind"
+  ],
+  "cgbird": [
+    "cgbird_witch"
+  ],
+  "chen": [
+    "chen_nian"
+  ],
+  "cqbw": [
+    "cqbw_epoque"
+  ],
+  "crow": [
+    "crow_summer"
+  ],
+  "ctable": [
+    "ctable_nian"
+  ],
+  "cuttle": [
+    "cuttle_epoque"
+  ],
+  "deepcl": [
+    "deepcl_winter"
+  ],
+  "demkni": [
+    "demkni_boc",
+    "demkni_test"
+  ],
+  "doberm": [
+    "doberm_epoque"
+  ],
+  "dusk": [
+    "dusk_nian"
+  ],
+  "elysm": [
+    "elysm_snow",
+    "elysm_summer"
+  ],
+  "erato": [
+    "erato_snow"
+  ],
+  "ethan": [
+    "ethan_epoque"
+  ],
+  "excu": [
+    "excu_boc"
+  ],
+  "f12yin": [
+    "f12yin_boc",
+    "f12yin_epoque"
+  ],
+  "fang": [
+    "fang_winter"
+  ],
+  "flameb": [
+    "flameb_summer"
+  ],
+  "flamtl": [
+    "flamtl_game"
+  ],
+  "flint": [
+    "flint_boc"
+  ],
+  "flower": [
+    "flower_daily",
+    "flower_epoque"
+  ],
+  "fmout": [
+    "fmout_epoque"
+  ],
+  "folnic": [
+    "folnic_wild"
+  ],
+  "frncat": [
+    "frncat_wild"
+  ],
+  "frostl": [
+    "frostl_boc"
+  ],
+  "gdglow": [
+    "gdglow_snow"
+  ],
+  "ghost": [
+    "ghost_winter"
+  ],
+  "glacus": [
+    "glacus_ghost"
+  ],
+  "glady": [
+    "glady_boc"
+  ],
+  "glassb": [
+    "glassb_kitchen"
+  ],
+  "glider": [
+    "glider_epoque"
+  ],
+  "gnosis": [
+    "gnosis_boc"
+  ],
+  "grani": [
+    "grani_epoque"
+  ],
+  "gravel": [
+    "gravel_winter"
+  ],
+  "greyy": [
+    "greyy_epoque"
+  ],
+  "greyy2": [
+    "greyy2_snow"
+  ],
+  "haak": [
+    "haak_nian#4",
+    "haak_nian#5"
+  ],
+  "headbr": [
+    "headbr_it",
+    "headbr_marthe"
+  ],
+  "helage": [
+    "helage_boc"
+  ],
+  "hibisc": [
+    "hibisc_nian"
+  ],
+  "hmau": [
+    "hmau_nian"
+  ],
+  "hsguma": [
+    "hsguma_nian"
+  ],
+  "huang": [
+    "huang_as"
+  ],
+  "ifrit": [
+    "ifrit_kfc",
+    "ifrit_summer"
+  ],
+  "indigo": [
+    "indigo_nian"
+  ],
+  "iris": [
+    "iris_witch"
+  ],
+  "jaksel": [
+    "jaksel_whirlwind"
+  ],
+  "jesica": [
+    "jesica_nian",
+    "jesica_sweep",
+    "jesica_wild"
+  ],
+  "kafka": [
+    "kafka_snow"
+  ],
+  "kazema": [
+    "kazema_witch"
+  ],
+  "kirara": [
+    "kirara_game"
+  ],
+  "kjera": [
+    "kjera_epoque"
+  ],
+  "kroos": [
+    "kroos_witch"
+  ],
+  "kroos2": [
+    "kroos2_nian"
+  ],
+  "lava2": [
+    "lava2_nian"
+  ],
+  "ling": [
+    "ling_nian"
+  ],
+  "lionhd": [
+    "lionhd_wild",
+    "lionhd_snow"
+  ],
+  "lisa": [
+    "lisa_wild",
+    "lisa_lxh"
+  ],
+  "liskam": [
+    "liskam_nian",
+    "liskam_striker"
+  ],
+  "lmlee": [
+    "lmlee_witch"
+  ],
+  "mantic": [
+    "mantic_epoque#4",
+    "mantic_epoque#19"
+  ],
+  "mberry": [
+    "mberry_epoque",
+    "mberry_nian"
+  ],
+  "medic2": [
+    "medic2_boc"
+  ],
+  "melan": [
+    "melan_epoque"
+  ],
+  "meteo": [
+    "meteo_sweep"
+  ],
+  "mgllan": [
+    "mgllan_kitchen"
+  ],
+  "midn": [
+    "midn_boc"
+  ],
+  "milu": [
+    "milu_snow",
+    "milu_wild"
+  ],
+  "mizuki": [
+    "mizuki_sale"
+  ],
+  "moeshd": [
+    "moeshd_kfc",
+    "moeshd_summer"
+  ],
+  "mostma": [
+    "mostma_epoque"
+  ],
+  "mudrok": [
+    "mudrok_summer",
+    "mudrok_ambienceSynesthesia"
+  ],
+  "myrrh": [
+    "myrrh_wild"
+  ],
+  "myrtle": [
+    "myrtle_epoque"
+  ],
+  "nearl": [
+    "nearl_summer"
+  ],
+  "nearl2": [
+    "nearl2_epoque"
+  ],
+  "nian": [
+    "nian_nian"
+  ],
+  "nightm": [
+    "nightm_epoque"
+  ],
+  "nothin": [
+    "nothin_nian"
+  ],
+  "otter": [
+    "otter_ghost"
+  ],
+  "pallas": [
+    "pallas_epoque#12",
+    "pallas_epoque#19"
+  ],
+  "panda": [
+    "panda_marthe",
+    "panda_nian"
+  ],
+  "pasngr": [
+    "pasngr_epoque"
+  ],
+  "peacok": [
+    "peacok_game"
+  ],
+  "phatom": [
+    "phatom_ghost",
+    "phatom_sale"
+  ],
+  "pinecn": [
+    "pinecn_shining"
+  ],
+  "platnm": [
+    "platnm_summer"
+  ],
+  "plosis": [
+    "plosis_epoque"
+  ],
+  "poca": [
+    "poca_epoque"
+  ],
+  "podego": [
+    "podego_epoque"
+  ],
+  "prove": [
+    "prove_summer",
+    "prove_wild"
+  ],
+  "provs": [
+    "provs_wild"
+  ],
+  "pudd": [
+    "pudd_snow"
+  ],
+  "quercu": [
+    "quercu_epoque"
+  ],
+  "red": [
+    "red_summer"
+  ],
+  "robin": [
+    "robin_epoque"
+  ],
+  "robrta": [
+    "robrta_summer"
+  ],
+  "rockr": [
+    "rockr_lxh"
+  ],
+  "rope": [
+    "rope_summer",
+    "rope_witch"
+  ],
+  "rosmon": [
+    "rosmon_epoque"
+  ],
+  "scave": [
+    "scave_striker"
+  ],
+  "sddrag": [
+    "sddrag_ambienceSynesthesia"
+  ],
+  "shining": [
+    "shining_summer"
+  ],
+  "shotst": [
+    "shotst_epoque"
+  ],
+  "shwaz": [
+    "shwaz_snow",
+    "shwaz_striker"
+  ],
+  "sidero": [
+    "sidero_summer"
+  ],
+  "siege": [
+    "siege_wild",
+    "siege_striker"
+  ],
+  "silent": [
+    "silent_sweep",
+    "silent_winter"
+  ],
+  "skadi": [
+    "skadi_summer"
+  ],
+  "skadi2": [
+    "skadi2_boc"
+  ],
+  "skfire": [
+    "skfire_summer"
+  ],
+  "slbell": [
+    "slbell_snow"
+  ],
+  "slchan": [
+    "slchan_wild",
+    "slchan_wwf"
+  ],
+  "sleach": [
+    "sleach_epoque"
+  ],
+  "snakek": [
+    "snakek_wild"
+  ],
+  "snsant": [
+    "snsant_witch"
+  ],
+  "sophia": [
+    "sophia_epoque"
+  ],
+  "sora": [
+    "sora_summer",
+    "sora_epoque"
+  ],
+  "spikes": [
+    "spikes_winter"
+  ],
+  "spot": [
+    "spot_boc"
+  ],
+  "sqrrel": [
+    "sqrrel_ghost"
+  ],
+  "strong": [
+    "strong_summer"
+  ],
+  "stward": [
+    "stward_sale"
+  ],
+  "sunbr": [
+    "sunbr_summer"
+  ],
+  "surtr": [
+    "surtr_it",
+    "surtr_summer"
+  ],
+  "susuro": [
+    "susuro_summer"
+  ],
+  "svrash": [
+    "svrash_snow",
+    "svrash_summer"
+  ],
+  "swire": [
+    "swire_nian"
+  ],
+  "swllow": [
+    "swllow_boc"
+  ],
+  "tachak": [
+    "tachak_rainbow6"
+  ],
+  "takila": [
+    "takila_ambienceSynesthesia"
+  ],
+  "texas": [
+    "texas_epoque",
+    "texas_winter"
+  ],
+  "thorns": [
+    "thorns_it"
+  ],
+  "tiger": [
+    "tiger_striker"
+  ],
+  "tknogi": [
+    "tknogi_epoque"
+  ],
+  "tomimi": [
+    "tomimi_summer"
+  ],
+  "tuye": [
+    "tuye_epoque"
+  ],
+  "utage": [
+    "utage_summer",
+    "utage_epoque"
+  ],
+  "vigna": [
+    "vigna_as",
+    "vigna_summer"
+  ],
+  "vodfox": [
+    "vodfox_witch"
+  ],
+  "waaifu": [
+    "waaifu_whirlwind"
+  ],
+  "weedy": [
+    "weedy_snow"
+  ],
+  "whispr": [
+    "whispr_nian"
+  ],
+  "whitew": [
+    "whitew_boc"
+  ],
+  "wildmn": [
+    "wildmn_epoque"
+  ],
+  "yak": [
+    "yak_summer"
+  ],
+  "yuki": [
+    "yuki_boc"
+  ],
+  "zebra": [
+    "zebra_wild"
+  ],
+  "zumama": [
+    "zumama_boc"
+  ]
 }
