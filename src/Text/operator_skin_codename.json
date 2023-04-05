@@ -22,7 +22,8 @@
   ],
   "angel": [
     "angel_kfc",
-    "angel_wild"
+    "angel_wild",
+    "angel_sale"
   ],
   "ansel": [
     "ansel_summer"
@@ -46,8 +47,9 @@
     "ash_rainbow6"
   ],
   "astesi": [
-    "astesi_epoque",
-    "astesi_shining"
+    "astesi_epoque#5",
+    "astesi_shining",
+    "astesi_epoque#23"
   ],
   "aurora": [
     "aurora_boc"
@@ -181,8 +183,14 @@
   "fmout": [
     "fmout_epoque"
   ],
+  "folivo": [
+    "folivo_epoque"
+  ],
   "folnic": [
     "folnic_wild"
+  ],
+  "forcer": [
+    "forcer_epoque"
   ],
   "frncat": [
     "frncat_wild"
@@ -294,7 +302,8 @@
   ],
   "lisa": [
     "lisa_wild",
-    "lisa_lxh"
+    "lisa_lxh",
+    "lisa_epoque"
   ],
   "liskam": [
     "liskam_nian",
@@ -329,6 +338,9 @@
   "milu": [
     "milu_snow",
     "milu_wild"
+  ],
+  "mint": [
+    "mint_epoque"
   ],
   "mizuki": [
     "mizuki_sale"
@@ -367,6 +379,9 @@
   ],
   "otter": [
     "otter_ghost"
+  ],
+  "palico": [
+    "palico_mh"
   ],
   "pallas": [
     "pallas_epoque#12",
