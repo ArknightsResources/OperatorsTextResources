@@ -122,6 +122,9 @@
   "chen": [
     "chen_nian"
   ],
+  "chen2": [
+    "chen2_boc"
+  ],
   "cqbw": [
     "cqbw_epoque"
   ],
@@ -146,6 +149,9 @@
   ],
   "dusk": [
     "dusk_nian"
+  ],
+  "ebnhlz": [
+    "ebnhlz_boc"
   ],
   "elysm": [
     "elysm_snow",
@@ -204,6 +210,9 @@
   "ghost": [
     "ghost_winter"
   ],
+  "ghost2": [
+    "ghost2_boc"
+  ],
   "glacus": [
     "glacus_ghost"
   ],
@@ -235,9 +244,15 @@
     "haak_nian#4",
     "haak_nian#5"
   ],
+  "hamoni": [
+    "hamoni_epoque"
+  ],
   "headbr": [
     "headbr_it",
     "headbr_marthe"
+  ],
+  "heidi": [
+    "heidi_epoque"
   ],
   "helage": [
     "helage_boc"
@@ -247,6 +262,9 @@
   ],
   "hmau": [
     "hmau_nian"
+  ],
+  "horn": [
+    "horn_epoque"
   ],
   "hsguma": [
     "hsguma_nian"
@@ -261,6 +279,9 @@
   "indigo": [
     "indigo_nian"
   ],
+  "irene": [
+    "irene_ambienceSynesthesia"
+  ],
   "iris": [
     "iris_witch"
   ],
@@ -274,6 +295,9 @@
   ],
   "kafka": [
     "kafka_snow"
+  ],
+  "kalts": [
+    "kalts_boc"
   ],
   "kazema": [
     "kazema_witch"
@@ -312,14 +336,8 @@
   "lmlee": [
     "lmlee_witch"
   ],
-  "heidi": [
-    "heidi_epoque"
-  ],
-  "horn": [
-    "horn_epoque"
-  ],
-  "hamoni": [
-    "hamoni_epoque"
+  "lumen": [
+    "lumen_ambienceSynesthesia"
   ],
   "mantic": [
     "mantic_epoque#4",
@@ -386,6 +404,9 @@
   "nothin": [
     "nothin_nian"
   ],
+  "orchid": [
+    "orchid_boc"
+  ],
   "otter": [
     "otter_ghost"
   ],
@@ -445,7 +466,8 @@
     "robin_epoque"
   ],
   "robrta": [
-    "robrta_summer"
+    "robrta_summer",
+    "robrta_ambienceSynesthesia"
   ],
   "rockr": [
     "rockr_lxh"
@@ -485,7 +507,8 @@
     "silent_winter"
   ],
   "skadi": [
-    "skadi_summer"
+    "skadi_summer",
+    "skadi_marthe"
   ],
   "skadi2": [
     "skadi2_boc"
