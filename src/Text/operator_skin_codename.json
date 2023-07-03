@@ -20,6 +20,9 @@
     "amiya_test",
     "amiya_winter"
   ],
+  "amiya2": [
+    "amiya2_casc"
+  ],
   "angel": [
     "angel_kfc",
     "angel_wild",
@@ -33,6 +36,9 @@
   ],
   "aprl": [
     "aprl_wild"
+  ],
+  "aprot2": [
+    "aprot2_whirlwind"
   ],
   "archet": [
     "archet_shining"
@@ -173,6 +179,9 @@
   "fang": [
     "fang_winter"
   ],
+  "fartth": [
+    "fartth_whirlwind"
+  ],
   "flameb": [
     "flameb_summer"
   ],
@@ -293,6 +302,9 @@
     "jesica_sweep",
     "jesica_wild"
   ],
+  "jnight": [
+    "jnight_boc"
+  ],
   "kafka": [
     "kafka_snow"
   ],
@@ -313,6 +325,9 @@
   ],
   "kroos2": [
     "kroos2_nian"
+  ],
+  "lava": [
+    "lava_sale"
   ],
   "lava2": [
     "lava2_nian"
@@ -427,9 +442,15 @@
   "peacok": [
     "peacok_game"
   ],
+  "peper": [
+    "peper_whirlwind"
+  ],
   "phatom": [
     "phatom_ghost",
     "phatom_sale"
+  ],
+  "pianst": [
+    "pianst_wild"
   ],
   "pinecn": [
     "pinecn_shining"
@@ -478,6 +499,9 @@
   ],
   "rosmon": [
     "rosmon_epoque"
+  ],
+  "saga": [
+    "saga_sale"
   ],
   "scave": [
     "scave_striker"
