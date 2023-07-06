@@ -67,7 +67,8 @@
     "beagle_boc"
   ],
   "beewax": [
-    "beewax_epoque"
+    "beewax_epoque",
+    "beewax_summer"
   ],
   "bgsnow": [
     "bgsnow_wild"
@@ -231,6 +232,9 @@
   "glassb": [
     "glassb_kitchen"
   ],
+  "glaze": [
+    "glaze_summer"
+  ],
   "glider": [
     "glider_epoque"
   ],
@@ -293,6 +297,9 @@
   ],
   "iris": [
     "iris_witch"
+  ],
+  "ironmn": [
+    "ironmn_summer"
   ],
   "jaksel": [
     "jaksel_whirlwind"
@@ -548,7 +555,8 @@
     "slchan_wwf"
   ],
   "sleach": [
-    "sleach_epoque"
+    "sleach_epoque",
+    "sleach_summer"
   ],
   "snakek": [
     "snakek_wild"
