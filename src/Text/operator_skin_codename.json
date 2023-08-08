@@ -132,6 +132,9 @@
   "chen2": [
     "chen2_boc"
   ],
+  "chnut": [
+    "chnut_summer"
+  ],
   "cqbw": [
     "cqbw_epoque"
   ],
@@ -215,7 +218,8 @@
     "frostl_boc"
   ],
   "gdglow": [
-    "gdglow_snow"
+    "gdglow_snow",
+    "gdglow_summer"
   ],
   "ghost": [
     "ghost_winter"
@@ -253,9 +257,15 @@
   "greyy2": [
     "greyy2_snow"
   ],
+  "gvial2": [
+    "gvial2_summer"
+  ],
   "haak": [
     "haak_nian#4",
     "haak_nian#5"
+  ],
+  "halo": [
+    "halo_epoque"
   ],
   "hamoni": [
     "hamoni_epoque"
@@ -409,7 +419,8 @@
     "myrrh_wild"
   ],
   "myrtle": [
-    "myrtle_epoque"
+    "myrtle_epoque",
+    "myrtle_summer"
   ],
   "nearl": [
     "nearl_summer"
