@@ -13,7 +13,7 @@
     <EmbedUntrackedSources>true</EmbedUntrackedSources>
     <PackageIcon>icon.png</PackageIcon>
     <Description>Provides text resources about Arknights Operators</Description>
-    <Version>0.1.9.0-alpha</Version>
+    <Version>0.1.10.0-alpha</Version>
     <IncludeSymbols>True</IncludeSymbols>
     <SymbolPackageFormat>snupkg</SymbolPackageFormat>
     <DebugType>portable</DebugType>
